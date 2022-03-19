@@ -32,7 +32,7 @@
  - [manga (frontent)](https://manga24.ru): HTML, CSS, JS.
 
 ## Certifications 📜
- - HackerRank
+- HackerRank
   - [JavaScript](https://www.hackerrank.com/certificates/98ea15126cc1)
   - [React](https://www.hackerrank.com/certificates/14d8b0c6d5ef)
 
