@@ -28,6 +28,8 @@
 #### HTMLAcademy (NodeJS developer):
 - [typoteka (frontent/backend)](https://github.com/massimoteplovsky/61709-typoteka-3): HTML(Pug), CSS, JS, NodeJS(express).
 - [buy-and-sell (frontent/backend)](https://github.com/massimoteplovsky/61709-buy-and-sell-3): HTML(Pug), CSS, JS, NodeJS(express).
+#### Collaborative project
+ - [manga (frontent)](https://manga24.ru): HTML, CSS, JS.
 
 ## Achievements 🎉
 - Arctic Code Vault Contributor: contributed code to the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
