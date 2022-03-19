@@ -33,8 +33,8 @@
 
 ## Certifications 📜
  - HackerRank
-  -- [JavaScript](https://www.hackerrank.com/certificates/98ea15126cc1)
-  -- [React](https://www.hackerrank.com/certificates/14d8b0c6d5ef)
+  - [JavaScript](https://www.hackerrank.com/certificates/98ea15126cc1)
+  - [React](https://www.hackerrank.com/certificates/14d8b0c6d5ef)
 
 ## Achievements 🎉
 - Arctic Code Vault Contributor: contributed code to the [2020 GitHub Archive Program](https://archiveprogram.github.com/)
