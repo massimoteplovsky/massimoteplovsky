@@ -14,10 +14,7 @@
 - **Email**: www.maximalist@mail.ru.
 
 ## Web-technologies 🛠️
-- **Currently using**:
-  ddhhdhdhd
-- **Learning**: <img align="center" alt="Next.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" /> <img align="center" alt="Nest.js" width="26px" src="https://habrastorage.org/getpro/habr/post_images/d11/98b/ac8/d1198bac8e4ced0d89d5e5983061f418.png" /> 
- - **Plan to learn**: <img align="center" alt="Vue.js" width="26px" src="https://fiverr-res.cloudinary.com/t_profile_original,q_auto,f_auto/attachments/profile/photo/0b6b74c39ee4ce6a3863ad421c10ce19-1510918569523/22986107-7432-4a41-81af-52579c917eec.png" /> <img align="center" alt="GraphQL.js" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/400px-GraphQL_Logo.svg.png" /> 
+  JS, Vue, Nuxt, React, Redux/Redux Toolkit, Typescript, HTML, CSS
 
 ## Additional Courses :books:
 #### Yandex.Praktikum (React developer):
